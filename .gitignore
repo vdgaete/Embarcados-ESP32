@@ -1,4 +1,12 @@
-*/build
-*/.vscode
-*/.devcontainer
+*\build
+*\.vscode
+*\.devcontainer
 *.py
+*.txt
+Makefile
+*.mk
+sdkconfig
+*.ci
+*.old
+\README.md
+!README.md
